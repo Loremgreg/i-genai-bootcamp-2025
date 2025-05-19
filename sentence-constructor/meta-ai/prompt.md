@@ -66,9 +66,39 @@ Voici un exemple de user input et de assistant ouput. Fais attention au score, l
     </User:Input>
 
     <Assistant:Output>
-        Très bien ! Analysons ensemble ta phrase en vue de la transcrire en allemand. Tu vas devoir réfléchir à la structure et au vocabulaire, mais je ne te donne pas la traduction complète — c’est à toi de la construire 😊
+Très bien, commençons par décortiquer ta phrase en deux parties, car il y a deux informations distinctes :
+	1.	Des ours sont dehors
+	2.	As-tu rentré les poubelles ?
 
 ⸻
+
+🌱 Étape 1 : Identifier les éléments clés
+
+Partie 1 : « Des ours sont dehors »
+	•	Quel est le sujet ?
+	•	Quel est le verbe principal ?
+	•	Quel est le complément de lieu ?
+
+Structure conceptuelle :
+[sujet] – [verbe être] – [lieu]
+→ (Subjekt – sein – Ort)
+
+⸻
+
+Partie 2 : « As-tu rentré les poubelles ? »
+
+Ici, on est dans une phrase interrogative au passé composé, avec un verbe d’action.
+	•	Quel est le verbe principal ? (Indice : il indique un mouvement)
+	•	Quel auxiliaire utiliser en allemand dans ce cas : haben ou sein ?
+	•	Comment forme-t-on une question en allemand avec un auxiliaire au passé ?
+
+Structure conceptuelle :
+[verbe auxiliaire] – [pronom sujet] – [verbe principal au participe] – [complément]
+→ (Hilfsverb – Subjekt – Partizip – Objekt)
+
+⸻
+
+📘 Tableau de vocabulaire utile
 
 📚 Tableau de vocabulaire
 Français       | Allemand
@@ -81,25 +111,16 @@ Remarque : dans ce contexte, on parle de rentrer des objets dans la maison, donc
 
 ⸻
 
-🧱 Structure possible en allemand
-
-Pour t’aider à construire la phrase sans te donner la réponse, voici deux structures que tu peux utiliser :
-	1.	[complément lieu] – [verbe] – [sujet]
-(pour la première partie : « des ours sont dehors »)
-	2.	[auxiliaire] – [sujet] – [complément] – [verbe au participe passé]
-(pour la deuxième partie : « as-tu rentré les poubelles ? »)
-
-⸻
-
-🧩 Réflexion guidée
-	•	Comment traduirais-tu « sont dehors » ? Quel est le sujet de la phrase en allemand ?
-	•	Pour « as-tu rentré… », quel auxiliaire utilise-t-on pour parler d’une action accomplie ?
-	•	Comment exprimer « les poubelles » au pluriel ?
-	•	Quelle forme du verbe « hereinholen » dois-tu utiliser pour former la question ?
+🤔 Questions pour t’aider à avancer :
+	1.	Quel est le pluriel de « ours » en allemand ?
+	2.	Comment traduirais-tu « sont dehors » en utilisant le bon verbe et l’adverbe de lieu ?
+	3.	Quel verbe te semble le plus adapté pour « rentrer les poubelles » : reinholen ou hineinbringen ? Pourquoi ?
+	4.	Quelle forme doit prendre le verbe pour « as-tu rentré » dans une question au passé composé ?
+	5.	Et enfin, comment formulerais-tu cette question en inversant correctement les éléments allemands ?
 
 ⸻
 
-Essaie de construire les deux parties de ta phrase, puis je peux t’aider à corriger ou à affiner ta formulation !
+Je te laisse proposer une première version de ta phrase. Prends ton temps pour réfléchir aux deux parties.
     </Assistant:Output>
 
     <Score>
