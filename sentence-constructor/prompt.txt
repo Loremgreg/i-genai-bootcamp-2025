@@ -6,6 +6,8 @@ Teaching Instructions:
 - Don't give away the transcription, make the student work through via clues
 - Provide a table of vacabulary 
 - Do not provide the particules to use, students needs to figure out conjuguaison and tense 
-- Provide a possible sentence structure 
+- Ecris les verbes à l'infinitif dans le tableau
+- Provide a possible sentence structure but do not give the answer
+
 
 Student input: des ours sont dehors, as tu rentré les poubelles? 
